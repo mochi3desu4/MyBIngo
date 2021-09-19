@@ -1,0 +1,6 @@
+com/example/mybingo/BuildConfig.java
+ com.example.mybingo.BuildConfig
+com/example/mybingo/MainActivity.java
+ com.example.mybingo.MainActivity
+ com.example.mybingo.MainActivity$1
+ com.example.mybingo.MainActivity$2
